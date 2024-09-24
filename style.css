@@ -1,0 +1,58 @@
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+    background-color: midnightblue;
+    width: 400px;
+    height: 150px;
+}
+tr{
+    border: 1px solid;
+}
+th{
+    border: 1px solid;
+}
+td{
+    border: 1px solid;
+    
+}
+caption{
+    font-size: 20px;
+    background-color: grey;
+}
+.levan{
+    background-color: aquamarine;
+}
+.natia{
+    color: red;
+    background-color: black;
+}
+.nika{
+    color: yellow;
+    background-color: darkgoldenrod;
+}
+.giorgi{
+    color: white;
+    background-color: brown;
+}
+video{
+    width: 300px;
+}
+h1{
+ color: black;
+ font-size: 50px;
+}
+.list{
+    color: blue
+}
+.back{
+    color: red;
+    background-color: black;
+}
+video{
+    width: 500px;
+    height: 350px;
+}
+.play{
+    background-color: red;
+    color: black;
+}
